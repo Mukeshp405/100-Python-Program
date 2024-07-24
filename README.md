@@ -7,3 +7,8 @@
 - [#5 - Program 5](https://github.com/Mukeshp405/100-Python-Program/blob/main/program5.py)
 - [#6 - Program 6](https://github.com/Mukeshp405/100-Python-Program/blob/main/program6.py)
 - [#7 - Program 7](https://github.com/Mukeshp405/100-Python-Program/blob/main/program7.py)
+- [#8 - Program 8](https://github.com/Mukeshp405/100-Python-Program/blob/main/program8.py)
+- [#9 - Program 9](https://github.com/Mukeshp405/100-Python-Program/blob/main/program9.py)
+- [#10 - Program 10](https://github.com/Mukeshp405/100-Python-Program/blob/main/program10.py)
+- [#11 - Program 11](https://github.com/Mukeshp405/100-Python-Program/blob/main/program11.py)
+- [#12 - Program 12](https://github.com/Mukeshp405/100-Python-Program/blob/main/program12.py)
