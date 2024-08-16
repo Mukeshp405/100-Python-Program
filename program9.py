@@ -6,17 +6,15 @@ import time
 timestamp = time.strftime('%H:%M:%S')
 print(timestamp)
 
-timestamp = int(time.strftime('%H'))
-# print(timestamp)
-if(timestamp < 12):
+hour = int(time.strftime('%H'))
+# hour = int(input("Enter the hour: "))
+# print(hour)
+
+if(hour >= 0 and hour < 12):
     print("Good Morning!!!")
-elif(timestamp > 12 and timestamp < 16):
+elif(hour >= 12 and hour < 17):
     print("Good Afternoon!!!")
+elif(hour >= 17 and hour < 0):
+    print("Good Night!!!")
 else:
-    print("Good Evening!!!")
-
-# timestamp = time.strftime('%M')
-# print(timestamp)
-
-# timestamp = time.strftime('%S')
-# print(timestamp)
+    print("Enter the valid hour!!!")
