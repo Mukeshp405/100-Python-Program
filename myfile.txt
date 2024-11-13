@@ -1,0 +1,12 @@
+A Library lends books and magazines to member, who is registered in the system. It also
+maintains the purchase of new books and magazines for the Library. A member can reserve a
+book or magazine that is not currently available in the library, so that when it is returned or
+purchased by the library, that person is notified. The library can easily create, replace and delete
+information about the books, members, and reservation in the system. The books transactions are
+stored in the database. The fine list while the member returns the book after the due date must be
+generated. Analyze the users and actors of this system, and the interactions between them must be
+depicted.
+Draw the following diagram for above problem statement.
+a. Use case diagram.
+b. Sequence diagram.
+c. Class diagram

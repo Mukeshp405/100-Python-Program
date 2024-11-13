@@ -1,0 +1,6 @@
+f = open("myfile.txt", 'r')
+# print(f.tell())
+f.seek(4)
+data = f.read(10)
+print(data)
+f.close()
